@@ -34,11 +34,11 @@ Não é preciso instalar nada além do navegador:
 
 Preenchida pelo **Aluno A ao final do laboratório**, com commit e push; o Aluno B faz pull em seguida. (Se os dois editarem este arquivo ao mesmo tempo, vocês ganham um conflito extra — o que também é um bom exercício.)
 
-| Papel | Nome | Usuário do GitHub |
-|---|---|---|
-| Aluno A — dono do repositório | | |
-| Aluno B — colaborador | | |
+| Papel                         | Nome                                  | Usuário do GitHub                                       |
+| ----------------------------- | ------------------------------------- | ------------------------------------------------------- |
+| Aluno A — dono do repositório | Guilherme Pompeo Verrone (RA 216361)  | [GuilhermeVerrone](https://github.com/GuilhermeVerrone) |
+| Aluno B — colaborador         | Yasmin dos Santos Batista (RA 241959) | [ysminbatista](https://github.com/ysminbatista)         |
 
 ---
 
-*Material da disciplina de Engenharia de Software.*
+_Material da disciplina de Engenharia de Software._
